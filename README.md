@@ -12,6 +12,9 @@ This Bash script (`server-stats.sh`) is designed to monitor and display basic sy
 - ✅ [Optional] OS version, system uptime, load average, login count, failed login attempts
 
 ---
+## 🔗 Project URL
+
+[https://github.com/Fikretkt/server-perf.stats](https://github.com/Fikretkt/server-perf.stats)
 
 ## 🛠️ Usage
 
