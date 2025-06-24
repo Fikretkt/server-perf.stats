@@ -1,24 +1,24 @@
 # 🖥️ Server Performance Monitor Script
 
-This Bash script (`server-stats.sh`) is designed to monitor and display basic system performance statistics on any Linux-based server.
+📌 **Project URL**: [https://github.com/Fikretkt/server-perf.stats](https://github.com/Fikretkt/server-perf.stats)
 
-## 🔗 Project URL
-
-[https://github.com/Fikretkt/server-perf.stats](https://github.com/Fikretkt/server-perf.stats)
-
-## 📌 Features
-
-- ✅ CPU usage summary
-- ✅ RAM (Memory) usage details (total, used, free, %)
-- ✅ Disk usage of root directory (used, free, %)
-- ✅ Top 5 processes by CPU usage
-- ✅ Top 5 processes by memory usage
-- ✅ [Optional] OS version, system uptime, load average, login count, failed login attempts
+This Bash script (`server-stats.sh`) helps you monitor system performance such as CPU, memory, disk usage, and top processes on any Linux-based server.
 
 ---
 
-## 🛠️ Usage
+## 📌 Features
 
-1. Make the script executable:
-   ```bash
-   chmod +x server-stats.sh
+- Total CPU usage
+- Memory usage with percentage
+- Disk usage with percentage
+- Top 5 processes by CPU usage
+- Top 5 processes by memory usage
+- Optional: OS version, uptime, load average, login count, failed login attempts
+
+---
+
+## 🛠️ How to Use
+
+```bash
+chmod +x server-stats.sh
+./server-stats.sh
