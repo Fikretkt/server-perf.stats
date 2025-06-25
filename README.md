@@ -1,6 +1,8 @@
 # 🖥️ Server Performance Monitor Script
 
 📌 **Project URL**: [https://github.com/Fikretkt/server-perf.stats](https://github.com/Fikretkt/server-perf.stats)
+📌 **Roadmap DevOps**: [[https://github.com/Fikretkt/server-perf.stats](https://github.com/Fikretkt/server-perf.stats(https://roadmap.sh/projects/server-stats))
+
 
 This Bash script (`server-stats.sh`) helps you monitor system performance such as CPU, memory, disk usage, and top processes on any Linux-based server.
 
